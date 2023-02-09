@@ -1,0 +1,13 @@
+Algoritimo
+
+1- Obter distancia percorrida
+2- Obter custo de combustivel
+3- Obter autonomia por litro de combustivel
+4- Obter o gasto com combustivel para a distancia percorrida, dividindo a quantidade de km pela quantidade de km feita com 1 litro de combustivel e multiplicando pela custo de cada litro.
+
+Pseudocódigo
+
+1- distanciaPercorrida
+2- custoCombustivel
+3- autonomiaPorLitro
+4- (distanciaPercorrida/autonomiaPorLitro)*custoCombustivel
